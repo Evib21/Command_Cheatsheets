@@ -1,0 +1,1 @@
+Structure the text in a clean and organized way. Do not change any of the content of the text as it is important. However, structure it to include where appropriate: headings, topics and subtopics, bold, italic, list, numbered or bulleted list, tables etc. Make it easy to read and understand for the reader and efficient and clean style
