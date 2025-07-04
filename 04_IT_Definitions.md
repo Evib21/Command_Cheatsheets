@@ -296,7 +296,8 @@
 
 2. **Runnable Application**
     - A program that has been built (compiled and packaged) so it can be executed by a computer.
-    - Program = what you write (source code); Runnable application = what you run (compiled, assembled, ready-to-execute).
+    - **Program** = what you write (source code); 
+    - **Runnable application** = what you run (compiled, assembled, ready-to-execute).
     - **Examples**
         - Java: `.java` → `.class` → `.jar` → run with `java -jar`
         - Python: `.py` files run directly with the interpreter
